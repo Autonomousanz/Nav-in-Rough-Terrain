@@ -1,0 +1,2 @@
+cpr_gazebo/cpr_agriculture_gazebo:cpr_gazebo/cpr_inspection_gazebo:cpr_gazebo/cpr_obstacle_gazebo:cpr_gazebo/cpr_office_gazebo:cpr_gazebo/cpr_orchard_gazebo:cpr_gazebo/cpr_race_modules:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/sanskruti/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sanskruti/catkin_ws/install -G Unix Makefiles

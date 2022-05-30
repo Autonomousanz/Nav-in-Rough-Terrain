@@ -1,0 +1,8 @@
+prefix=/home/sanskruti/catkin_ws/devel
+
+Name: cpr_agriculture_gazebo
+Description: Description of cpr_agriculture_gazebo
+Version: 0.2.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
