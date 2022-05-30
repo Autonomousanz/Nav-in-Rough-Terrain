@@ -17,7 +17,7 @@ The details of the project is illustrated on the project 209 readme with A* Path
 
 ## Results :
 
-[![watch]([Videos/runtime_video.mp4](https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain/blob/master/Videos/runtime_video.mp4))
+[![Runtime]([Videos/runtime_video.mp4](https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain/blob/master/Videos/runtime_video.mp4))
 
 ## Conclusion :
 
