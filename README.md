@@ -16,7 +16,7 @@ The project is an experiment of finding the shortest path to a given set of star
 ## Procedure :
 Following are the steps taken for running this project -
 1. Below is a rough terrain environment suitable for the application - source: husky clearpath , husky playpen environment :
-[!environment](https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain/blob/master/Pictures/huskeyplaypath.png)
+![environment](https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain/blob/master/Pictures/huskeyplaypath.png)
 
 2. Launching the robot in this environment using the launch file which contains the world file location in the catkin workspace 
 3. Generate a pgm file through slam mapping of this environment, the pgm file of the chosen environment is already available by default in the husky clearpath installation.
@@ -36,11 +36,21 @@ Following are the steps taken for running this project -
 ![Runtime](https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain/blob/master/Videos/run.gif)
 
 ## Conclusion :
-Autonomous Navigation using RRT* path planning algorithm  
+Autonomous Navigation using RRT* path planning algorithm was achieved using turtlebot3 burger model in Gazebo ROS simulated environment. The scope of this project was limited to small rough terrain environment and can be further extended with additional optimizations such as testing dynamic obstacle avoidance cases and other worst case scenarios. The outcome of this analysis was an introductory study of autonomous navigation of robots in a rough terrain concepts and its workings using MATLAB and ROS GAZEBO environments. 
 
 ## Future Work :
 
+There are following improvement points which needs to considered for further optimizing this model:
 
+1. Using an actual off road terrain robot such as husky in an agricultural land which is already available in clearpath robotics git will prove to be more significant contribution for further study and analysis.
+2. Currently this project experiments using pure pursuit controller,optimizing the control of the robot to overcome the troughs of the environment by accounting uneven ground can be another approach that needs to be further investigated.
+
+## Credits
+
+We are thankful to the support of mentors and advisors of this Project:
+
+
+ 
 
 
 
