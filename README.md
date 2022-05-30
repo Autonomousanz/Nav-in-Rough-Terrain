@@ -48,8 +48,10 @@ There are following improvement points which needs to considered for further opt
 ## Credits
 
 We are thankful to the support of mentors and advisors of this Project:
+
 Dr. Roberto G. Valenti 
 (Senior Research Scientist,MathWorks Excellence in Innovation Program Lead)
+
 Dr. Bing Li 
 (Professor,Clemson University International Center for Automotive Research (CU-ICAR))
 
