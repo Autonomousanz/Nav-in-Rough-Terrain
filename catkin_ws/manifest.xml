@@ -1,0 +1,14 @@
+<package>
+  <description brief="Autonomous Navigation in Rough Terrain">
+     This is project 209 of MAthworks/MATLAB excellence in Innovation project
+      consisting of amalgation of various existing techniques or methodologies 
+      for autonomous navigation in rough terrain
+  </description>
+  <author>Sanskruti Jadhav/sanskrj@clemson.edu</author>
+  <author>Shubhankar Kulkarni/sskulka@clemson.edu</author>
+  <license>BSD</license>
+  <url>http://www.ros.org/wiki/turtlebot</url>
+  <depend package="rospy,catkin,turtlebot_description,turtlebot_simulation, turtlebot_gazebo,turtlebot_teleop"/>
+  <url>http://wiki.ros.org/Robots/Husky</url>
+  <depend package="rospy,husky_simulator,husky_gazebo "/>
+</package>
