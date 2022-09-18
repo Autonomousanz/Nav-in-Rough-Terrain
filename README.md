@@ -56,8 +56,9 @@ Dr. Bing Li
 (Professor,Clemson University International Center for Automotive Research (CU-ICAR))
 
 ## Youtube Video Review
-
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=1A5JWeAHcRw&list=PLn8PRpmsu08ogRonqegcx8xJCSSQO5yVX&index=2&t=2sv=YOUTUBE_VIDEO_ID_HERE)
+<a href="https://www.youtube.com/watch?v=1A5JWeAHcRw=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Autonomous Waypoint Navigation" width="240" height="180" border="10" /></a>
  
 
 
