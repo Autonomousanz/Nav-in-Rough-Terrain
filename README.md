@@ -57,7 +57,7 @@ Dr. Bing Li
 
 ## Youtube Video Review
 
-[![Project](https://www.youtube.com/watch?v=1A5JWeAHcRw&list=PLn8PRpmsu08ogRonqegcx8xJCSSQO5yVX&index=2&t=2sv=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=1A5JWeAHcRw&list=PLn8PRpmsu08ogRonqegcx8xJCSSQO5yVX&index=2&t=2sv=YOUTUBE_VIDEO_ID_HERE)
  
 
 
